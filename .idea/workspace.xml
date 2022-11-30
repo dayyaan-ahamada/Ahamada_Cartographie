@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4af8feaf-07b7-4747-9c0c-a2fb88177f1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/details.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/details.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1axGQ7sPGMnI9OjW2gVzFMaJEvJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moi97\Documents\JavaScript\Cartographie\css" />
+      <recent name="C:\Users\moi97\Documents\JavaScript\Cartographie" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4af8feaf-07b7-4747-9c0c-a2fb88177f1f" name="Default Changelist" comment="" />
+      <created>1587669812056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587669812056</updated>
+      <workItem from="1587669813378" duration="160000" />
+      <workItem from="1587670023216" duration="3606000" />
+      <workItem from="1587723995547" duration="5836000" />
+      <workItem from="1589739116444" duration="6498000" />
+      <workItem from="1589811918419" duration="1046000" />
+      <workItem from="1590184903970" duration="6028000" />
+      <workItem from="1590366232353" duration="199000" />
+      <workItem from="1590624409674" duration="109000" />
+      <workItem from="1591774422221" duration="3467000" />
+      <workItem from="1591881404121" duration="2451000" />
+      <workItem from="1591891672273" duration="590000" />
+      <workItem from="1592093906143" duration="2486000" />
+      <workItem from="1592097061574" duration="1042000" />
+      <workItem from="1592230827251" duration="1225000" />
+      <workItem from="1592232083438" duration="2268000" />
+      <workItem from="1592293357089" duration="1132000" />
+      <workItem from="1592870721095" duration="1273000" />
+      <workItem from="1592927624080" duration="6696000" />
+      <workItem from="1592999196156" duration="2160000" />
+      <workItem from="1593205134787" duration="10478000" />
+      <workItem from="1593378481858" duration="9166000" />
+      <workItem from="1593453374042" duration="2718000" />
+      <workItem from="1593560919462" duration="4548000" />
+      <workItem from="1593643331175" duration="2109000" />
+      <workItem from="1593654620654" duration="600000" />
+      <workItem from="1593675198330" duration="599000" />
+      <workItem from="1594067225727" duration="12014000" />
+      <workItem from="1594128679108" duration="13634000" />
+      <workItem from="1594149614520" duration="3315000" />
+      <workItem from="1594157638026" duration="12834000" />
+      <workItem from="1594207941817" duration="11166000" />
+      <workItem from="1594222479472" duration="677000" />
+      <workItem from="1594224207889" duration="1557000" />
+      <workItem from="1594306540726" duration="603000" />
+      <workItem from="1598086464266" duration="126000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tests des partenariats + ajout du titre + CSS">
+      <created>1590188408957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590188408958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Details des partenariat Ok">
+      <created>1591979914753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591979914753</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test partenariat Espagne">
+      <created>1591980142303</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591980142303</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bug Etudiants">
+      <created>1592097167163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592097167163</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Bouton retour">
+      <created>1592099953184</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592099953184</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Liste des Etudiants">
+      <created>1592233900400</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592233900400</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Suppression fonction GetEtudiant() inutile">
+      <created>1592233996763</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592233996763</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Suppression de la liste des étudiants et remplacement par nombre d'étudiants">
+      <created>1592942585739</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592942585739</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Point sur la carte : modification des parametres de taille">
+      <created>1592959947520</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592959947520</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ajout d'une photo sur le partenariat">
+      <created>1593208996574</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593208996575</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ajout d'une photo sur le partenariat">
+      <created>1593385725266</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593385725266</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ajout de plusieurs photos sur un partenariat + suppression au clic">
+      <created>1593385830419</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593385830419</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add photo">
+      <created>1593453718439</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1593453718439</updated>
+    </task>
+    <task id="LOCAL-00014" summary="correction photo">
+      <created>1593456665175</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593456665175</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Bouton ajout d'un partenariat">
+      <created>1594070060140</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1594070060140</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Validation par l'admin des photos et des partenariats">
+      <created>1594077694425</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1594077694425</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ajout mauvaise connexion admin">
+      <created>1594077977972</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1594077977972</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Filtre et ajout automatique des coordonnées GPS d'une ville">
+      <created>1594138242208</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1594138242208</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Filtre v2">
+      <created>1594138738158</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1594138738158</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Affichage de tous les partenariats dans un même pays">
+      <created>1594141900074</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1594141900074</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Points en fonction de la latitude et longitude">
+      <created>1594147144317</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1594147144317</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Ajustements">
+      <created>1594147883807</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1594147883807</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Ajout description du partenariat">
+      <created>1594152315323</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1594152315323</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Changements de détails">
+      <created>1594165163939</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1594165163939</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Correctif sur les urlencode">
+      <created>1594168439947</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1594168439947</updated>
+    </task>
+    <task id="LOCAL-00026" summary="info complémentaires">
+      <created>1594168642257</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1594168642257</updated>
+    </task>
+    <task id="LOCAL-00027" summary="taille des images">
+      <created>1594171208307</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1594171208307</updated>
+    </task>
+    <task id="LOCAL-00028" summary="width auto">
+      <created>1594171923226</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1594171923226</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ajout automatique photo si Admin">
+      <created>1594172343305</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1594172343305</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Ajout charte graphique">
+      <created>1594213848775</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1594213848776</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Modification d'affichage">
+      <created>1594214402069</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1594214402069</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Modification couleurs">
+      <created>1594215403052</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1594215403052</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Modification BD">
+      <created>1594216995438</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1594216995438</updated>
+    </task>
+    <task id="LOCAL-00034" summary="insert.sql">
+      <created>1594217028937</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1594217028937</updated>
+    </task>
+    <task id="LOCAL-00035" summary="couleur des points en fonction du partenariat">
+      <created>1594218829143</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1594218829143</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajout d'une photo sur le partenariat" />
+    <MESSAGE value="Ajout de plusieurs photos sur un partenariat + suppression au clic" />
+    <MESSAGE value="add photo" />
+    <MESSAGE value="correction photo" />
+    <MESSAGE value="Bouton ajout d'un partenariat" />
+    <MESSAGE value="Validation par l'admin des photos et des partenariats" />
+    <MESSAGE value="Ajout mauvaise connexion admin" />
+    <MESSAGE value="Filtre et ajout automatique des coordonnées GPS d'une ville" />
+    <MESSAGE value="Filtre v2" />
+    <MESSAGE value="Affichage de tous les partenariats dans un même pays" />
+    <MESSAGE value="Points en fonction de la latitude et longitude" />
+    <MESSAGE value="Ajustements" />
+    <MESSAGE value="Ajout description du partenariat" />
+    <MESSAGE value="Changements de détails" />
+    <MESSAGE value="Correctif sur les urlencode" />
+    <MESSAGE value="info complémentaires" />
+    <MESSAGE value="taille des images" />
+    <MESSAGE value="width auto" />
+    <MESSAGE value="ajout automatique photo si Admin" />
+    <MESSAGE value="Ajout charte graphique" />
+    <MESSAGE value="Modification d'affichage" />
+    <MESSAGE value="Modification couleurs" />
+    <MESSAGE value="Modification BD" />
+    <MESSAGE value="insert.sql" />
+    <MESSAGE value="couleur des points en fonction du partenariat" />
+    <option name="LAST_COMMIT_MESSAGE" value="couleur des points en fonction du partenariat" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1589745868209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589745868209" />
+    <state x="194" y="104" width="981" height="707" key="SettingsEditor" timestamp="1598086552086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="194" y="104" width="981" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598086552086" />
+    <state x="436" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589739219441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589739219441" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589742904294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589742904294" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589744682343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589744682343" />
+  </component>
+</project>

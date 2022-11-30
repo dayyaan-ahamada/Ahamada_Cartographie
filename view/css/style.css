@@ -1,0 +1,96 @@
+#chartdiv{
+    height:100vh;
+    padding-top: 20px;
+}
+#info{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: x-large;
+    position: absolute;
+    background-color: rgba(213, 213, 213, 0.86);
+    margin-left: 1em;
+    top: 50px;
+    padding-left: 1em;
+    padding-right: 1em;
+
+
+
+}
+body{
+    background-color: rgb(249, 253, 255);
+    color: black;
+}
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: #0086c5;
+    font-family: "Open Sans Extrabold", serif;
+
+}
+a:visited {
+    color: #0086c5;
+}
+img[src="view/Images/logoIUT.png"]{
+    width: 3vh;
+}
+img[src="view/Images/globe.png"]{
+    width: 3vh;
+}
+#globe{
+    position: absolute;
+    right: 30px;
+    top:10px
+}
+
+#listes {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 2em;
+}
+
+#supprimer
+{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+#img{
+    max-height: 400px;
+    min-height: 400px;
+    width : auto;
+
+}
+
+#filtre{
+    padding: 0.5%;
+    text-decoration: underline ;
+}
+
+#INFO{
+    color :#bb1e27;
+}
+
+#GEA{
+    color :#f0702f ;
+}
+#TC{
+    color :#e94663 ;
+}
+#CHIMIE{
+    color : #87ba44 ;
+}
+#MP{
+    color : #6f448d;
+}
+#GB{
+    color : #00a7b8;
+}
+#GEII{
+     color : #8a005d;
+ }
+
+
+
